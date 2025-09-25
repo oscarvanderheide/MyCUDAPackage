@@ -16,7 +16,7 @@ Before installing, ensure the following are available on your system:
 Open the Julia REPL, press ] to enter Pkg mode, and run:
 
 ```Julia
-(v1.11) pkg> add https://github.com/oscarvanderheide/MyCUDAPackage.jl.git
+(v1.11) pkg> add https://github.com/oscarvanderheide/MyCUDAPackage.git
 ```
 
 ### Verification
