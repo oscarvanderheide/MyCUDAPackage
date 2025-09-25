@@ -1,0 +1,20 @@
+name = "MyCUDAPackage"
+uuid = "320121fa-1125-4878-bbfe-6c16f526a287"
+authors = ["Oscar van der Heide, Stijn Heldens and Alessio Sclocco"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.11"
+Libdl = "1.11.0"
+Pkg = "1.11.0"
+Test = "1.11.0"
+
+[extras]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
